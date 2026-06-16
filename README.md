@@ -1,6 +1,7 @@
 # Projet de Fin de Module – Deep Learning
 
-**EMSI Casablanca – École Marocaine des Sciences de l'Ingénieur**  
+**EMSI Casablanca – École Marocaine des Sciences de l'Ingénieur**
+**BELGAS Zainab**
 **Filière : Informatique | Module : Deep Learning | Année : 2025–2026**
 
 ---
